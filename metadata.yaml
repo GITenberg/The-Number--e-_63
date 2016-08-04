@@ -1,0 +1,25 @@
+_repo: The-Number--e-_63
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: Natural Log to about 100,000 places
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '1993-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematical constants'
+- !lcc 'QA'
+- !lcsh 'Mathematics'
+- GITenberg
+title: The Number "e"
+url: http://www.gutenberg.org/ebooks/63
